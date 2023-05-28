@@ -1,4 +1,4 @@
-## Laboratory work III
+## Laboratory work III by Telepov Igor IU8-21
 
 Данная лабораторная работа посвещена изучению систем автоматизации сборки проекта на примере **CMake**
 
